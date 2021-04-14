@@ -15,8 +15,7 @@
 #### Cambridge University Press, 2014.
 
 ## Details
-#### The python script attached produces these subgraphs & the correct percentage of extra-subgraph activity to achieve biological plausibility
-#### The matlab script merges the subgraphs into one graph and preps the data for import in the CRF model
+#### The python script attached produces Hopfield Networks as used in the publication
 
 
 
