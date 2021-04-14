@@ -15,7 +15,7 @@
 #### Cambridge University Press, 2014.
 
 ## Details
-#### The python script attached produces Hopfield Networks as used in the publication, though two networks (large, and small) are provided.
+#### The python script attached produces Hopfield Networks as used in the publication, though two networks (large, and small) are provided for demoing the CRF code.
 
 
 
