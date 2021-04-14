@@ -1,3 +1,7 @@
+
+
+ 
+ 
 %plotting script
 
 
@@ -75,6 +79,3 @@ for ii = 1:num_stim
  title('Coordinates of Pattern Completors for Optogenetic Targeting');
  hold off
 end
-
- 
- 
