@@ -8,15 +8,15 @@
 #### Tony Jebara, Columbia University
 #### Rafael Yuste, Columbia University
 
-##Software Requirements
+## Software Requirements
 Linux only (Tested on Ubuntu & Matlab2019b)
 Recompilation of associated thirdparty mex-files requires GCC/G++ version 6.3.X
 
-##Installation
+## Installation
 Open a terminal in the folder "Pattern_Completor_Modeling"
 Enter bash UBUNTU_SETUP.sh in the terminal
 
-##Running the Demo
+## Running the Demo
 Open Matlab
 Run the Run_Demo script
 For ease of demoing, a small model option was included that is 1/10th the size of the network used in the publication.
