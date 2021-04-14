@@ -5,7 +5,6 @@ addpath(fullfile(basepath,'thirdparty'))
 addpath(fullfile(basepath,'thirdparty','QPBO-v1.32.src'))
 addpath(fullfile(basepath,'thirdparty','glmnet_matlab'))
 addpath(fullfile(basepath,'thirdparty','glmnet_matlab','glmnet_matlab'))
-addpath(fullfile(basepath, 'thirdparty','waitbarParfor.m'))
 addpath(fullfile(basepath,'expt'))
 
 % SOURCE FUNCTIONS
