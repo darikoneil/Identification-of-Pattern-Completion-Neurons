@@ -36,6 +36,7 @@ else
     LARGE_TEST;
 end
 
+warning('off','all');
 [basepath,params]=start_up();
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

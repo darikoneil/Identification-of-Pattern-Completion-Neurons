@@ -86,7 +86,7 @@ s_lambda_count = params.s_lambda_range;
 s_lambda_min_exp = log10(params.s_lambda_min);
 s_lambda_max_exp = log10(params.s_lambda_max);
 params.s_lambda_sequence_LASSO = logspace(s_lambda_min_exp, s_lambda_max_exp, s_lambda_count);
-params.s_lambda_sequence_LASS0 = flip(params.s_lambda_sequence_LASSO);
+params.s_lambda_sequence_LASSO = sort(params.s_lambda_sequence_LASSO,'descend');
 %set options for GLMNet
 
 opts.lambda = params.s_lambda_sequence_LASSO;
