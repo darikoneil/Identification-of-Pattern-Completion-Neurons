@@ -13,14 +13,14 @@ Linux only (Tested on Ubuntu 18.04.5 LTS)
 Recompilation of associated thirdparty mex-files requires GCC/G++ version 6.3.X
 
 ## MATLAB Requirements
-MATLAB 2019b with symbolic links (More recent versions of MATLAB are usually compatible)
-Signal Processing Toolbox
-Parallel-Computing Toolbox is not necessary, this demo is a single-process implementation
+MATLAB 2019b with symbolic links (More recent versions of MATLAB are usually compatible)  
+Signal Processing Toolbox  
+Parallel-Computing Toolbox is not necessary, this demo is a single-process implementation  
 
 ## Third Party Dependencies
-QPBO 1.32
-GLMNet
-MexCPP
+QPBO 1.32  
+GLMNet  
+MexCPP  
 
 ## Installation
 Open a terminal in the folder "Pattern_Completor_Modeling"
