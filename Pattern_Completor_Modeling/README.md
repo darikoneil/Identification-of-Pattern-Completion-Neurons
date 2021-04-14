@@ -23,12 +23,12 @@ GLMNet
 MexCPP  
 
 ## Installation
-Open a terminal in the folder "Pattern_Completor_Modeling"
-Enter bash UBUNTU_SETUP.sh in the terminal
-Enter "1" for "Yes" to install
+Open a terminal in the folder "Pattern_Completor_Modeling"  
+Enter bash UBUNTU_SETUP.sh in the terminal  
+Enter "1" for "Yes" to install  
 
 ## Running the Demo
-Open Matlab
-Run the Run_Demo script
-For ease of demoing, a small model option was included that is 1/10th the size of the network used in the publication.
+Open Matlab  
+Run the Run_Demo script  
+For ease of demoing, a small model option was included that is 1/10th the size of the network used in the publication.  
 
