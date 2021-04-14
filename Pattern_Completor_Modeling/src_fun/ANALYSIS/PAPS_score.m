@@ -45,10 +45,11 @@ for i = 1:num_ens
     end
 end
 
-%Now Select Only the top p% of each ensemble
+%Now select only the top p% of each ensemble OR above X standard deviations
 PCNs = cell(1,num_ens);
 for i = 1:num_ens
-    idx = find(PAPS_INDEXED{2,i}>((mean(PAPS_INDEXED{2,i})+std(PAPS_INDEXED{2,i}))));
+    %idx = find(PAPS_INDEXED{2,i}>((mean(PAPS_INDEXED{2,i})+std(PAPS_INDEXED{2,i}))));
+    [Mk,idx] = maxk(PAPS_INDEXED{2,i},round(0.07*length(PAPS_INDEXED{2,i})));
     PCNs{i} = transpose(PAPS_INDEXED{1,i}(idx));
 end
 

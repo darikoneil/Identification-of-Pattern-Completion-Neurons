@@ -32,6 +32,7 @@ MDL.Edges.LWidths = 1*normalize(MDL.Edges.Weight,'range', [0.01 0.99])/max(norma
 for ii = 1:num_stim
     f = figure; set(gcf,'color','w')
     f.Name = sprintf('Ensemble %d', ii);
+    f.WindowState = 'maximized';
     
     subplot(2,2,1)
     MODEL = plot(MDL,'XData',coords(:,1),'YData',coords(:,2),'ZData',coords(:,3));
