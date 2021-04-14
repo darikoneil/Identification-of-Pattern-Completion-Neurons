@@ -1,6 +1,6 @@
 
-
-cd ~/Documents/Pattern_Completor_Modeling/thirdparty/QPBO-v1.32.src
+cd thirdparty
+cd QPBO-v1.32.src
 
 fileID = fopen('Makefile','r');
 mydata=cell(1,40);

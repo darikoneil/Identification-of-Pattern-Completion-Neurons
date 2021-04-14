@@ -14,10 +14,6 @@ cd thirdparty/QPBO-v1.32.src
 
 make
 
-echo "Installing Terminal Multiplexer (TMUX)"
-
-sudo apt install tmux
-
 echo "Installation Complete"
 
 
