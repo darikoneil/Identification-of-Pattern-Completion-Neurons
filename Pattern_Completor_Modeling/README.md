@@ -15,6 +15,7 @@ Recompilation of associated thirdparty mex-files requires GCC/G++ version 6.3.X
 ## Installation
 Open a terminal in the folder "Pattern_Completor_Modeling"
 Enter bash UBUNTU_SETUP.sh in the terminal
+Enter "1" for "Yes" to install
 
 ## Running the Demo
 Open Matlab
