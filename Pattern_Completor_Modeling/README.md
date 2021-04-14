@@ -1,4 +1,4 @@
-#Demo of CRF code used in:
+# Demo of CRF code used in:
 
 #### Identification of Pattern Completion Neurons in Neuronal Ensembles using Probabilistic Graphical Models
 #### Luis Carrillo-Reid, Neurobiology Institute UNAM
