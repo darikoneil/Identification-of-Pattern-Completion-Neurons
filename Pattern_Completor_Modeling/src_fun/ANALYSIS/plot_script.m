@@ -6,6 +6,7 @@ core_crf = results.core_crf;
 epsum = results.epsum;
 epsum(isnan(epsum))=0;
 epsum = normalize(epsum,'range');
+coords=params.coords;
 
 auc = results.auc;
 auc_ens = results.auc_ens;
