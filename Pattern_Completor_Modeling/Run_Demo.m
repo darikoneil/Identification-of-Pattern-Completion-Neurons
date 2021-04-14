@@ -108,6 +108,7 @@ load(strcat(d,'/','best_model.mat'));
 %Analysis for Core neurons//Pattern Completers
 [~, results] = find_core_ext_IDs(best_model,params.data,params.UDF);
 
+fprintf('\n')
 fprintf('Finding Pattern Completers')
 fprintf('\n')
 
@@ -117,7 +118,7 @@ results.PAPS_INDEXED = PAPS_INDEXED;
 save(strcat(d,'/','results.mat'));
 
 fprintf('\n')
-fprintf('Core Analysis Completed')
+fprintf('Demo Completed')
 fprintf('\n')
 
 plot_script;
