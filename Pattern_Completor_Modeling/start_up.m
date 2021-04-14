@@ -11,7 +11,6 @@ addpath(fullfile(basepath,'thirdparty'))
 addpath(fullfile(basepath,'thirdparty','QPBO-v1.32.src'))
 addpath(fullfile(basepath,'thirdparty','glmnet_matlab'))
 addpath(fullfile(basepath,'thirdparty','glmnet_matlab','glmnet_matlab'))
-addpath(fullfile(basepath, 'thirdparty','waitbarParfor.m'))
 addpath(fullfile(basepath,'expt'))
 
 % SOURCE FUNCTIONS
@@ -87,7 +86,7 @@ s_lambda_count = params.s_lambda_range;
 s_lambda_min_exp = log10(params.s_lambda_min);
 s_lambda_max_exp = log10(params.s_lambda_max);
 params.s_lambda_sequence_LASSO = logspace(s_lambda_min_exp, s_lambda_max_exp, s_lambda_count);
-
+params.s_lambda_sequence_LASS0 = flip(params.s_lambda_sequence_LASSO);
 %set options for GLMNet
 
 opts.lambda = params.s_lambda_sequence_LASSO;

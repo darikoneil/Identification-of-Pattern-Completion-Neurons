@@ -1,5 +1,8 @@
 basepath = pwd;
 
+%set format
+format long
+
 % THIRDPARTY DEPENDENCIES
 addpath(fullfile(basepath,'thirdparty'))
 addpath(fullfile(basepath,'thirdparty','QPBO-v1.32.src'))
