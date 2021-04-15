@@ -35,7 +35,7 @@ Run the Run_Demo script
 For ease of demoing, a small model option was included that is 1/10th the size of the network used in the publication. 
 
 ## Output
-For each detected ensemble a figure is producing contained the graphical model, identified pattern completors, and their respective coordinates.
+For each detected ensemble a figure is produced contained the graphical model, identified pattern completors, and their respective coordinates.
 <img src="https://github.com/darikoneil/Identification-of-Pattern-Completion-Neurons-in-Neuronal-Ensembles-using-Probabilistic-Graphical-Mod/blob/main/Example.png">
 
 
