@@ -36,6 +36,7 @@ For ease of demoing, a small model option was included that is 1/10th the size o
 
 ## Output
 For each detected ensemble a figure is produced highlighting the identified pattern completors and their respective coordinates.  
+  
 <img src="https://github.com/darikoneil/Identification-of-Pattern-Completion-Neurons-in-Neuronal-Ensembles-using-Probabilistic-Graphical-Mod/blob/main/Example.png">
 
 
