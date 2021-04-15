@@ -1,5 +1,3 @@
-<img src="https://github.com/darikoneil/Identification-of-Pattern-Completion-Neurons-in-Neuronal-Ensembles-using-Probabilistic-Graphical-Mod/blob/main/Example.png">
-
 # Demo of CRF code used in:
 
 #### Identification of Pattern Completion Neurons in Neuronal Ensembles using Probabilistic Graphical Models
@@ -35,6 +33,10 @@ Enter "1" for "Yes" to install
 Open Matlab  
 Run the Run_Demo script  
 For ease of demoing, a small model option was included that is 1/10th the size of the network used in the publication. 
+
+## Output
+The Demo will produce a figure containing the graphical model, identified pattern completors, and their coordinate locations for detected ensembles.
+<img src="https://github.com/darikoneil/Identification-of-Pattern-Completion-Neurons-in-Neuronal-Ensembles-using-Probabilistic-Graphical-Mod/blob/main/Example.png">
 
 
 
