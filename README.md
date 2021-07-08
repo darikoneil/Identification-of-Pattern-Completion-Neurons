@@ -1,12 +1,13 @@
 # Demo of CRF code used in:
 
 #### Identification of Pattern Completion Neurons in Neuronal Ensembles using Probabilistic Graphical Models
-#### Luis Carrillo-Reid, Neurobiology Institute UNAM
-#### Shuting Han, Columbia University
-#### Darik O'Neil, Columbia University
+#### Luis Carrillo-Reid*, Neurobiology Institute UNAM
+#### Shuting Han*, Columbia University
+#### Darik O'Neil*, Columbia University
 #### Ekaterina Taralova, Columbia University
 #### Tony Jebara, Columbia University
 #### Rafael Yuste, Columbia University
+* *Denotes equal contribution
 
 
 
