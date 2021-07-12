@@ -9,6 +9,8 @@
 #### Rafael Yuste, Columbia University
 * *Denotes equal contribution
 
+Journal of Neuroscience (2021; accepted, pending print)
+
 
 
 ## Software Requirements
