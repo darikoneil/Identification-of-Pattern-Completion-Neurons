@@ -16,5 +16,3 @@ for i = 1:num_edge
 end
 
 end
-
-%Darik changed to lower matrix
