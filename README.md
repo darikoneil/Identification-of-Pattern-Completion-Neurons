@@ -7,9 +7,11 @@
 #### Ekaterina Taralova, Columbia University
 #### Tony Jebara, Columbia University
 #### Rafael Yuste, Columbia University
+^denotes equal contribution
 Journal of Neuroscience (2021; early access)
 https://www.jneurosci.org/content/early/2021/08/19/JNEUROSCI.0051-21.2021
-^denotes equal contribution
+
+
 
 
 
