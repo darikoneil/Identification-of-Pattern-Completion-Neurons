@@ -13,7 +13,7 @@ https://www.jneurosci.org/content/early/2021/08/19/JNEUROSCI.0051-21.2021
 
 ## Current Code     
 This repo contains the code as used in the associated publication.     
-To see the latest implementation and toolbox, click [here](https://github.com/darikoneil/sturdy-octo-sniffle)
+To see the latest implementation and toolbox, click [here](https://github.com/darikoneil)
 
 ## Software Requirements
 Linux only (Tested on Ubuntu 18.04.5 LTS)  
